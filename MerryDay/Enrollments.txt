@@ -1,0 +1,2 @@
+Name: Joshua Meyer, Age: 11, Balance: $250, Enrolled: True
+Name: Emily Meyer, Age: 8, Balance: $50.0, Enrolled: True
